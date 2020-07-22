@@ -1,0 +1,7 @@
+README.md
+dokr
+setup.py
+dokr_gsimo.egg-info/PKG-INFO
+dokr_gsimo.egg-info/SOURCES.txt
+dokr_gsimo.egg-info/dependency_links.txt
+dokr_gsimo.egg-info/top_level.txt

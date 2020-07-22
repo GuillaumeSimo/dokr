@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='dokr',  
+     name='dokr_gsimo',  
      version='0.1',
      scripts=['dokr'] ,
      author="Guillaume Simo",
